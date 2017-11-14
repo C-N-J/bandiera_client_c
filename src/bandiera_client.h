@@ -1,0 +1,4 @@
+#ifdef BANDIERA_CLIENT_H_
+#define BANDIERA_CLIENT_H_
+
+
